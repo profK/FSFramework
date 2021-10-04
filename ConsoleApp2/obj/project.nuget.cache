@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Cjk6sh2xznVOIURxxNjnhKA/uo3wZ3C4+8R/UmQjad+DcckoDbpPxgL+An1NcmDc3lAB6dM38kJsPFtfib4Vg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\RiderProjects\\FSFramework\\ConsoleApp2\\ConsoleApp2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpkessel\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

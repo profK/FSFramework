@@ -1,0 +1,10 @@
+D:\projects\RiderProjects\FSFramework\FSFramework\obj\Debug\net6.0\FSFramework.fsproj.AssemblyReference.cache
+D:\projects\RiderProjects\FSFramework\FSFramework\obj\Debug\net6.0\FSFramework.AssemblyInfoInputs.cache
+D:\projects\RiderProjects\FSFramework\FSFramework\obj\Debug\net6.0\FSFramework.AssemblyInfo.fs
+D:\projects\RiderProjects\FSFramework\FSFramework\bin\Debug\net6.0\FSFramework.deps.json
+D:\projects\RiderProjects\FSFramework\FSFramework\bin\Debug\net6.0\FSFramework.dll
+D:\projects\RiderProjects\FSFramework\FSFramework\bin\Debug\net6.0\FSFramework.pdb
+D:\projects\RiderProjects\FSFramework\FSFramework\bin\Debug\net6.0\FSFramework.xml
+D:\projects\RiderProjects\FSFramework\FSFramework\obj\Debug\net6.0\FSFramework.dll
+D:\projects\RiderProjects\FSFramework\FSFramework\obj\Debug\net6.0\FSFramework.xml
+D:\projects\RiderProjects\FSFramework\FSFramework\obj\Debug\net6.0\FSFramework.pdb

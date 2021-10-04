@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSFramework", "FSFramework\FSFramework.fsproj", "{D5D88CB7-F943-41E9-AEA3-6FFE0A42AF2C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestRegistry", "TestRegistry\TestRegistry.fsproj", "{AD0AB475-3E8B-4FE9-BDA8-9AAB932B3069}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DemoApp", "DemoApp\DemoApp.fsproj", "{D6765AC3-6B58-4974-8433-3CB3157EA259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D88CB7-F943-41E9-AEA3-6FFE0A42AF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D88CB7-F943-41E9-AEA3-6FFE0A42AF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D88CB7-F943-41E9-AEA3-6FFE0A42AF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D88CB7-F943-41E9-AEA3-6FFE0A42AF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0AB475-3E8B-4FE9-BDA8-9AAB932B3069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0AB475-3E8B-4FE9-BDA8-9AAB932B3069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0AB475-3E8B-4FE9-BDA8-9AAB932B3069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0AB475-3E8B-4FE9-BDA8-9AAB932B3069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6765AC3-6B58-4974-8433-3CB3157EA259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6765AC3-6B58-4974-8433-3CB3157EA259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6765AC3-6B58-4974-8433-3CB3157EA259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6765AC3-6B58-4974-8433-3CB3157EA259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
